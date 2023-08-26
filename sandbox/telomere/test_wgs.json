@@ -1,0 +1,4 @@
+{"TelomereWorkFlow.sample_name":"CDS-00Nrci",
+"TelomereWorkFlow.tumor_bam":"CDS-00Nrci.wgs_ccle.bam",
+"TelomereWorkFlow.cytoband": "cytoBand.txt",
+"TelomereWorkFlow.tumor_bam_index":"CDS-00Nrci.wgs_ccle.bai"}
